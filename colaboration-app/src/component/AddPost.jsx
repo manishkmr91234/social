@@ -38,7 +38,7 @@ const AddPost = () => {
   return (
     <div className="add-post-container">
       <div className="add-post-form">
-        <h2>Share Your Idea</h2>
+        <h2>Share Your Unique Idea</h2>
         <form onSubmit={handleSubmit}>
           <div className="form-group">
             <label>Title</label>
